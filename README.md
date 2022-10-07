@@ -8,3 +8,6 @@ We implement all the experiments in Python 3.7, except that the compressed spars
 
 ## Dataset
 Two real [QoS data collected by the WS-Dream system](https://wsdream.github.io/dataset/wsdream_dataset1.html) are applied in our experiments, which are the largest publicly-available QoS datasets and widely adopted in prior studies. 
+
+## Run
+Please change the hyper parameters in run.py and run it.
