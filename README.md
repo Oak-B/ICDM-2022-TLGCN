@@ -7,4 +7,4 @@ We implement all the experiments in Python 3.7, except that the compressed spars
 `pip install -r requirements.txt`
 
 ## Dataset
-We provide two processed testing cases used in our experiments. Please see more in the directory named "data".
+Two real [QoS data collected by the WS-Dream system](https://wsdream.github.io/dataset/wsdream_dataset1.html) are applied in our experiments, which are the largest publicly-available QoS datasets and widely adopted in prior studies. 
