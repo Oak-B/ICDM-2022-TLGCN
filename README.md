@@ -7,4 +7,4 @@ We implement all the experiments in Python 3.7, except that the compressed spars
 `pip install -r requirements.txt`
 
 ## Dataset
-We provide two processed testing cases used in our experiments. Please see more in data.
+We provide two processed testing cases used in our experiments. Please see more in the directory named "data".
